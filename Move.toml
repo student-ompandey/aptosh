@@ -1,0 +1,16 @@
+[package]
+name = "Predictionmarketplatform"
+version = "1.0.0"
+authors = []
+
+[addresses]
+wallet_address = "0x842a75600a92eb5a93335946b04980d954d168ed30602e0415106668b806a9e7"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
