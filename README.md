@@ -38,7 +38,7 @@ Our vision is to democratize prediction markets by creating a fully decentralize
 - **Explorer Link**: https://explorer.aptoslabs.com/txn/0xfeb4bc8eeebcc3f49e266c6e65f919d4d71dfbf1dd6d6c2c88d5305796d1efad?network=devnet
 - **Screenshot**: If you want the screenshot embedded in the README, save the attached image as `assets/transaction.png` and it will render here:
 
-	![Transaction Screenshot](assets/transaction.png)
+	![Transaction Screenshot](transaction.png)
 
 	(If you prefer, I can add the image file to the repo for you — tell me and I'll save the attached screenshot as `assets/transaction.png`.)
 
